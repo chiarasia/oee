@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-07-30T08:00:00",
+        "availability": 94.17,
+        "performance": 90.71,
+        "quality": 97.80,
+        "oee": 83.53
+    },
+    {
+        "timestamp": "2026-07-30T16:00:00",
+        "availability": 95.42,
+        "performance": 92.14,
+        "quality": 98.10,
+        "oee": 86.26
+    }
+]
